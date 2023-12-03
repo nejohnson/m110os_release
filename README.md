@@ -19,4 +19,4 @@ The process is as follows:
 
 # Releases
 
-m110osfw-20231202.mid -- Initial commit, first version for public release.
+None yet.
