@@ -10,6 +10,7 @@ To update firmware in the M110SX module you will need:
 * One of the update files below
 
 The process is as follows:
+1. Make sure your JEN SX1000 is set to MIDI channel 1 (hold down the lowest key then turn on)
 1. Load the firmware MIDI file into your sequencer
 1. Turn off your JEN SX1000
 1. Hold down the C4 and C5 keys then turn it on
