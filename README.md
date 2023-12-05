@@ -19,4 +19,4 @@ The process is as follows:
 
 # Releases
 
-None yet.
+20231205 -- First publc release.
